@@ -3,8 +3,6 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/Jello-World.iml" filepath="$PROJECT_DIR$/.idea/Jello-World.iml" />
-      <module fileurl="file://$PROJECT_DIR$/src/LinkedList/LinkedList.iml" filepath="$PROJECT_DIR$/src/LinkedList/LinkedList.iml" />
-      <module fileurl="file://$PROJECT_DIR$/src/jello-world/jello-world.iml" filepath="$PROJECT_DIR$/src/jello-world/jello-world.iml" />
     </modules>
   </component>
 </project>
