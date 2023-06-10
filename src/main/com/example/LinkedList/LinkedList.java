@@ -1,10 +1,10 @@
 package com.example.LinkedList;
 
 public class LinkedList<T> {
-    private LinkedList next;
+    private LinkedList<T> next;
     private T value;
 
-    public LinkedList(LinkedList next) {
+    public LinkedList(LinkedList<T> next) {
         this.next = next;
     }
 
@@ -22,11 +22,11 @@ public class LinkedList<T> {
         this.value = value;
     }
 
-    public LinkedList getNext() {
+    public LinkedList<T> getNext() {
         return next;
     }
 
-    public void setNext(LinkedList next) {
+    public void setNext(LinkedList<T> next) {
         this.next = next;
     }
 
